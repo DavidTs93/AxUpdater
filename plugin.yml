@@ -1,0 +1,14 @@
+name: AxUpdater
+main: me.DMan16.AxUpdater.AxUpdater
+softdepend: [AxUtils]
+version: 1.0
+description: Plugins Updater for Aldreda
+author: DMan16
+api-version: 1.16
+
+commands:
+  axupdater:
+    permission: aldreda.command.axupdater
+permissions:
+  aldreda.command.axupdater:
+    default: op
