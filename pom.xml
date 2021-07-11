@@ -32,7 +32,6 @@
                 <configuration>
                     <source>${java.version}</source>
                     <target>${java.version}</target>
-                    <executable>C:\Program Files\Java\jdk-11.0.9\bin\javac.exe</executable>
                     <compilerArgs>
                         <arg>-Xlint:deprecation</arg>
                     </compilerArgs>
